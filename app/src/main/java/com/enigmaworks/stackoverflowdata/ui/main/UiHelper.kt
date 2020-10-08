@@ -1,12 +1,12 @@
-package com.ascensia.stackoverflowdata.ui.main
+package com.enigmaworks.stackoverflowdata.ui.main
 
 import android.app.DatePickerDialog
 import android.content.Context
 import android.text.InputType
 import android.widget.EditText
 import android.widget.ImageView
-import com.ascensia.stackoverflowdata.R
-import com.ascensia.stackoverflowdata.network.FilterParameters
+import com.enigmaworks.stackoverflowdata.R
+import com.enigmaworks.stackoverflowdata.network.FilterParameters
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import io.reactivex.subjects.PublishSubject

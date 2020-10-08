@@ -1,10 +1,11 @@
-package com.ascensia.stackoverflowdata
+package com.enigmaworks.stackoverflowdata
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.ascensia.stackoverflowdata.ui.main.MainFragment
-import com.ascensia.stackoverflowdata.ui.main.SearchFragment
-import com.ascensia.stackoverflowdata.ui.main.SettingsFragment
+import com.enigmaworks.stackoverflowdata.ui.main.MainFragment
+import com.enigmaworks.stackoverflowdata.ui.main.SearchFragment
+import com.enigmaworks.stackoverflowdata.ui.main.SettingsFragment
+import com.enigmaworks.stackoverflowdata.R
 
 class MainActivity : AppCompatActivity() {
 

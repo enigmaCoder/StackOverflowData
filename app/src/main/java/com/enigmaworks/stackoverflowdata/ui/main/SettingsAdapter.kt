@@ -1,4 +1,4 @@
-package com.ascensia.stackoverflowdata.ui.main
+package com.enigmaworks.stackoverflowdata.ui.main
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.view.animation.AnimationUtils
 import android.widget.EditText
 import androidx.recyclerview.widget.RecyclerView
-import com.ascensia.stackoverflowdata.R
+import com.enigmaworks.stackoverflowdata.R
 
 class SettingsAdapter(val settingsArray: ArrayList<Pair<Pair<String,String>,Pair<InputTypes,Boolean>>>,private val context: Context,private val viewModel: MainViewModel): RecyclerView.Adapter<SettingsViewHolder>() {
     companion object{

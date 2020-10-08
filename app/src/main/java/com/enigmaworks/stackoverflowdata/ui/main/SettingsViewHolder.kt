@@ -1,11 +1,11 @@
-package com.ascensia.stackoverflowdata.ui.main
+package com.enigmaworks.stackoverflowdata.ui.main
 
 import android.view.View
 import android.widget.CheckBox
 import android.widget.EditText
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.ascensia.stackoverflowdata.R
+import com.enigmaworks.stackoverflowdata.R
 
 class SettingsViewHolder(view: View): RecyclerView.ViewHolder(view) {
     val tagNameHolder: TextView = view.findViewById(R.id.tagNameHolder)

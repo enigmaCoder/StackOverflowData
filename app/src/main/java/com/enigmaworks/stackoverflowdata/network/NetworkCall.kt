@@ -1,6 +1,6 @@
-package com.ascensia.stackoverflowdata.network
+package com.enigmaworks.stackoverflowdata.network
 
-import com.ascensia.stackoverflowdata.ui.main.querySearchObservable
+import com.enigmaworks.stackoverflowdata.ui.main.querySearchObservable
 import io.reactivex.Observable
 import io.reactivex.schedulers.Schedulers
 import kotlinx.serialization.json.Json

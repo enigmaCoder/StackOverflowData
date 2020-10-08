@@ -1,6 +1,6 @@
-package com.ascensia.stackoverflowdata.network
+package com.enigmaworks.stackoverflowdata.network
 
-import com.ascensia.stackoverflowdata.ui.main.InputTypes
+import com.enigmaworks.stackoverflowdata.ui.main.InputTypes
 
 enum class FilterParameters(val filterKeyValue: String,val inputTypes: InputTypes){
     ORDER("order",InputTypes.TEXT),

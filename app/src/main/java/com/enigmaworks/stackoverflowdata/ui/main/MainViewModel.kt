@@ -1,12 +1,11 @@
-package com.ascensia.stackoverflowdata.ui.main
+package com.enigmaworks.stackoverflowdata.ui.main
 
 import androidx.lifecycle.ViewModel
-import com.ascensia.stackoverflowdata.network.NetworkCall
-import com.ascensia.stackoverflowdata.network.StackResponse
+import com.enigmaworks.stackoverflowdata.network.NetworkCall
+import com.enigmaworks.stackoverflowdata.network.StackResponse
 import io.reactivex.Observer
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.Disposable
-import io.reactivex.schedulers.Schedulers
 import timber.log.Timber
 
 class MainViewModel : ViewModel() {

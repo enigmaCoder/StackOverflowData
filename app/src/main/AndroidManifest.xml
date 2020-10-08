@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ascensia.stackoverflowdata">
+    package="com.enigmaworks.stackoverflowdata">
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application

@@ -1,11 +1,11 @@
-package com.ascensia.stackoverflowdata.ui.main
+package com.enigmaworks.stackoverflowdata.ui.main
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.ascensia.stackoverflowdata.R
+import com.enigmaworks.stackoverflowdata.R
 
 class MainFragment : Fragment() {
 

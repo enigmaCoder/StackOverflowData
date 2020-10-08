@@ -1,4 +1,4 @@
-package com.ascensia.stackoverflowdata.network
+package com.enigmaworks.stackoverflowdata.network
 
 import kotlinx.serialization.Serializable
 

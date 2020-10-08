@@ -1,9 +1,9 @@
-package com.ascensia.stackoverflowdata.ui.main
+package com.enigmaworks.stackoverflowdata.ui.main
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.ascensia.stackoverflowdata.R
+import com.enigmaworks.stackoverflowdata.R
 
 class SearchViewAdapter(private val itemsList: ArrayList<Pair<String,Pair<String,String>>>): RecyclerView.Adapter<SearchViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): SearchViewHolder {

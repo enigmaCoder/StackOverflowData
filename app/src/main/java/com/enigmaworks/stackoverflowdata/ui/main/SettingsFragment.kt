@@ -1,4 +1,4 @@
-package com.ascensia.stackoverflowdata.ui.main
+package com.enigmaworks.stackoverflowdata.ui.main
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.ascensia.stackoverflowdata.R
+import com.enigmaworks.stackoverflowdata.R
 import kotlinx.android.synthetic.main.recyler_fragment.*
 
 class SettingsFragment: Fragment() {
